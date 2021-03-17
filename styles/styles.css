@@ -46,7 +46,7 @@ h3{
 }
 
 p{
-  color: #8f8f8f;
+  color: #40394a;
 }
 
 .navbar{
@@ -97,12 +97,12 @@ p{
 }
 
 .icon{
-  color: #94d3ac;
+  color: #40394a;
   margin-bottom: 1rem;
 }
 
 .icon:hover{
-  color: #639a67;
+  color: #40394a;
 }
 
 .dog{
@@ -117,13 +117,13 @@ p{
 }
 
 #testimonials{
-  background-color: #94d3ac;
+  background-color: #40394a;
   text-align: center;
   color: #fff;
 }
 
 #press{
-  background-color: #94d3ac;
+  background-color: #40394a;
   padding-bottom: 3%;
   text-align: center;
 }
