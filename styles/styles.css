@@ -143,7 +143,7 @@ p{
 }
 
 #cta{
-  background-color: #639a67;
+  background-color: #40394a;
   color: #fff;
   padding: 5% 10%;
   text-align: center;
@@ -160,7 +160,7 @@ p{
 
 .footer-icon{
   margin: 20px 10px;
-  color: #335d2d;
+  color: #40394a;
 }
 
 @media (max-width:1028px) {
@@ -172,7 +172,7 @@ p{
   .title-image{
     position: static;
     transform: rotate(0);
-    color: #335d2d;
+    color: #40394a;
   }
   
   .pugal{
